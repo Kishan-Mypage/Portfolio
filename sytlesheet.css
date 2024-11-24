@@ -339,6 +339,9 @@ header {
 .services-list div:hover{
     transform: translateY(-10px);
 }
+#skills {
+padding-top: 150px ;
+}
 .read{
     display: inline-block;
     padding: 12px 28px;
